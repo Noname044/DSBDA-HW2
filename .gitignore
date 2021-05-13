@@ -3,7 +3,7 @@
 *.iml
 *.iws
 *.out
-
+input_data/
 # Mac
 .DS_Store
 
